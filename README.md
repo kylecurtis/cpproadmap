@@ -1,7 +1,7 @@
 ![C++ Roadmap Banner](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/banners/main-banner.png)
 
 
-![Open Source MIT Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/open-source-mit-badge.svg) ![CommonMark Format Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/commonmark-format-badge.svg) ![Obsidian Tested Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/obsidian-tested-badge.svg) ![C++26 Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/cpp/cpp26-badge.svg) ![Work In Progress Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/work-in-progress-badge.svg)
+![Open Source MIT Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/open-source-mit-badge.svg) ![Work In Progress Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/work-in-progress-badge.svg) ![CommonMark Format Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/commonmark-format-badge.svg) ![Obsidian Tested Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/project/obsidian-tested-badge.svg) ![C++26 Badge](https://raw.githubusercontent.com/kylecurtis/cpproadmap/refs/heads/main/00-assets/badges/cpp/cpp26-badge.svg)
 
 ## Key Features
 
