@@ -5,7 +5,7 @@
 
 ## Key Features
 
-- 📴 **Free & Open Source**: 100% free. Forever open source.
+- 🔓 **Free & Open Source**: 100% free. Forever open source.
 - 🏠 **Local-first & offline**: Always available. No internet required.
 - 🔮 **Future-focused**: Tracks modern C++ and evolves with the standard (C++11/14/17/20/23/26 and beyond).
 - 🧭 **Structured path optional**: A main() to mastery route exists, but the map is yours to explore.
