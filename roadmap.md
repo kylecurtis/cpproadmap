@@ -14,6 +14,7 @@ Throughout this roadmap, you’ll encounter various elements used to enhance the
 
 > ```
 > ✏️ NOTE
+> 
 > This is a custom note admonition.
 > ```
 
@@ -21,6 +22,7 @@ Throughout this roadmap, you’ll encounter various elements used to enhance the
 
 > ```
 > 💡 TIP
+> 
 > This is a custom tip admonition.
 > ```
 
@@ -28,6 +30,7 @@ Throughout this roadmap, you’ll encounter various elements used to enhance the
 
 > ```
 >ℹ️ IMPORTANT
+>
 > This is a custom important admonition.
 > ```
 
@@ -35,6 +38,7 @@ Throughout this roadmap, you’ll encounter various elements used to enhance the
 
 > ```
 > ⚠️ WARNING
+> 
 > This is a custom warning admonition.
 > ```
 
@@ -42,6 +46,7 @@ Throughout this roadmap, you’ll encounter various elements used to enhance the
 
 > ```
 > ⛔ DANGER
+> 
 > This is a custom danger admonition.
 > ```
 
