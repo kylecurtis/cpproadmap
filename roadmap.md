@@ -44,3 +44,11 @@ Throughout this roadmap, you’ll encounter various elements used to enhance the
 > ⛔ DANGER
 > This is a custom danger admonition.
 > ```
+
+---
+
+## main() to mastery
+
+| Topic | Link to Note | Tags |
+| :--: | :--: | :--: |
+| Hello, World | [Here](./01-fundamentals/hello-world.md) | preprocessor, output, namespaces, functions, arguments | 
